@@ -1,0 +1,40 @@
+D20AT01|An toan thong tin 1|2020-2025|
+D20AT02|An toan thong tin 2|2020-2025|
+D20AT03|An toan thong tin 3|2020-2025|
+D20CN01|Cong nghe thong tin 1|2020-2025|
+D20CN02|Cong nghe thong tin 2|2020-2025|
+D20CN03|Cong nghe thong tin 3|2020-2025|
+D20CN04|Cong nghe thong tin 4|2020-2025|
+D20CN05|Cong nghe thong tin 5|2020-2025|
+D21AT01|An toan thong tin 1|2021-2026|
+D21AT02|An toan thong tin 2|2021-2026|
+D21AT03|An toan thong tin 3|2021-2026|
+D21CN01|Cong nghe thong tin 1|2021-2026|
+D21CN02|Cong nghe thong tin 2|2021-2026|
+D21CN03|Cong nghe thong tin 3|2021-2026|
+D21CN04|Cong nghe thong tin 4|2021-2026|
+D21CN05|Cong nghe thong tin 5|2021-2026|
+D21DP01|Da phuong tien 1|2021-2025|
+D21DP02|Da phuong tien 2|2021-2025|
+D21DP03|Da phuong tien 3|2021-2025|
+D21DP04|Da phuong tien 4|2021-2025|
+D20AT01|An toan thong tin 1|2020-2025|
+D20AT02|An toan thong tin 2|2020-2025|
+D20AT03|An toan thong tin 3|2020-2025|
+D20CN01|Cong nghe thong tin 1|2020-2025|
+D20CN02|Cong nghe thong tin 2|2020-2025|
+D20CN03|Cong nghe thong tin 3|2020-2025|
+D20CN04|Cong nghe thong tin 4|2020-2025|
+D20CN05|Cong nghe thong tin 5|2020-2025|
+D21AT01|An toan thong tin 1|2021-2026|
+D21AT02|An toan thong tin 2|2021-2026|
+D21AT03|An toan thong tin 3|2021-2026|
+D21CN01|Cong nghe thong tin 1|2021-2026|
+D21CN02|Cong nghe thong tin 2|2021-2026|
+D21CN03|Cong nghe thong tin 3|2021-2026|
+D21CN04|Cong nghe thong tin 4|2021-2026|
+D21CN05|Cong nghe thong tin 5|2021-2026|
+D21DP01|Da phuong tien 1|2021-2025|
+D21DP02|Da phuong tien 2|2021-2025|
+D21DP03|Da phuong tien 3|2021-2025|
+D21DP04|Da phuong tien 4|2021-2025|
